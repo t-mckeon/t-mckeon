@@ -17,7 +17,6 @@ For Detailed Web Scrapers for Soccer Analytics data - check out [this](https://g
 
 For a data-backed inquiry into the true strikezones of MLB Umpires - check out [this](https://github.com/t-mckeon/Umpire-Bias-in-the-MLB) repository.
 
-<!---
-t-mckeon/t-mckeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=t-mckeon&repo=Umpire-Bias-in-the-MLBE&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">

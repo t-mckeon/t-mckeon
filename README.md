@@ -10,6 +10,7 @@ For more information of my experience or if you would like to get in touch, I am
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </div>
+[![Protonmail Badge](https://img.shields.io/badge/-thomas.mckeon@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thomas.mckeon@protonmail.com)](mailto:thomas.mckeon@protonmail.com)
 
 # Projects
 

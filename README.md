@@ -1,7 +1,5 @@
 ### Hi, I’m Thomas
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-
 - 🧭 I'm currently working as a Web Analyst for [Cardinal Path](https://www.cardinalpath.com/)
 - 📊 Striving for fluency in analytics tools such as Python, PowerBI, and BigQuery
 - ⚽ My personal projects revolve around Soccer and Baseball Analytics

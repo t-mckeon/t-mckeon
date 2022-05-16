@@ -32,4 +32,11 @@ I create data visualizations, write articles, video/audio edit, and talk soccer 
   </a>
   <a href="https://www.instagram.com/boxtoboxtobox/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/channel/UCrncIOgbmzhnWTGBrUIdpuA"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+    <a href="https://boxtobox.netlify.app/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto:boxtobox.mht@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
 </div>

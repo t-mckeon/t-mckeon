@@ -1,7 +1,14 @@
-****Hi, I’m Thomas****
-I'm a Web Analyst currently working for Cardinal Path in their Analysis and Insights Department. I enjoy working in the data analytics feild,  with projects around web scraping and data wrangling. I'm currently exploring the intruiging world of sports analytics, with most of this Github centered around Baseball and Soccer Analytics. 
+### Hi, I’m Thomas
 
-For more information of my experience or if you would like to get in touch, I am available through all the following channels:
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+- 🧭 I'm currently working as a Web Analyst for Cardinal Path
+- 📊 Striving for fluency in analytics tools such as Python, PowerBI, and BigQuery
+- ⚽ My personal projects revolve around Soccer and Baseball Analytics
+- 😄 Pronouns: He / Him
+
+#### 📫 How to reach me:
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/thomas-mckeon-2020/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,3 +16,8 @@ For more information of my experience or if you would like to get in touch, I am
   <a href="mailto:thomas.mckeon@protonmail.com"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </div>
+
+#### 👨🏻‍💻 Languages and Tools <br />
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>

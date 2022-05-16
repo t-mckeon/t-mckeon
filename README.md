@@ -22,6 +22,8 @@
 
 ### 📦 Box to Box
 
+<img align="right" src="https://user-images.githubusercontent.com/105253832/168698048-e64098b6-8433-4fdb-b49c-27b00b9e1eb0.png" width="200" height="200">
+
 I create data visualizations, write articles, video/audio edit, and talk soccer for the Box to Box Podcast. Check us out here.
 
 <div id="badges">

@@ -6,7 +6,7 @@ For more information of my experience or if you would like to get in touch, I am
   <a href="https://www.linkedin.com/in/thomas-mckeon-2020/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "thomas.mckeon@protonmail.com">
+  <a href = "thomas.mckeon@protonmail.com">Send Email
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </div>

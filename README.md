@@ -1,6 +1,6 @@
 ### Hi, I’m Thomas
 
-- 🧭 I'm currently working as a Web Analyst for [Cardinal Path](https://www.cardinalpath.com/)
+- 🧭 I'm currently working as a Senior Analyst for [Perfromics](https://www.performics.com/)
 - 📊 Striving for fluency in analytics tools such as Python, PowerBI, and BigQuery
 - ⚽ My personal projects revolve around Soccer and Baseball Analytics
 - 😄 Pronouns: He / Him
@@ -20,7 +20,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-### 📦 Box to Box
+### 🎤 Talk Footy
 
 <img align="left" src="https://user-images.githubusercontent.com/105253832/186941542-87a8bfca-6bd9-43d0-9b42-77b6dc87d860.jpeg" width="200" height="200">
 

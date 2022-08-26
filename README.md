@@ -22,9 +22,9 @@
 
 ### 📦 Box to Box
 
-<img align="left" src="https://user-images.githubusercontent.com/105253832/168698048-e64098b6-8433-4fdb-b49c-27b00b9e1eb0.png" width="200" height="200">
+<img align="left" src="https://user-images.githubusercontent.com/105253832/186941542-87a8bfca-6bd9-43d0-9b42-77b6dc87d860.jpeg" width="200" height="200">
 
-I create data visualizations, write articles, video/audio edit, and talk soccer for the Box to Box Podcast. Check us out here.
+I create data visualizations, write articles, video/audio edit, and talk soccer for the Talk Footy Podcast. Check us out here.
 
 <div id="badges">
   <a href="https://twitter.com/Box2Box_Pod">

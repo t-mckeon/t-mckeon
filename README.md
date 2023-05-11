@@ -20,23 +20,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
-### 🎤 Talk Footy
-
-<img align="left" src="https://user-images.githubusercontent.com/105253832/186941542-87a8bfca-6bd9-43d0-9b42-77b6dc87d860.jpeg" width="200" height="200">
-
-I create data visualizations, write articles, video/audio edit, and talk soccer for the Talk Footy Podcast. Check us out here.
-
-<div id="badges">
-  <a href="https://twitter.com/Box2Box_Pod">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/boxtoboxtobox/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCrncIOgbmzhnWTGBrUIdpuA"> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-    <a href="https://boxtobox.netlify.app/"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a>
-  <a href="mailto:boxtobox.mht@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-</div>
